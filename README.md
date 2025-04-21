@@ -6,7 +6,7 @@
 **📞 Phone:** +34 722461084  
 **📧 Email:** damiconejos@gmail.com 
 **🐙 GitHub:** [DamCone](https://github.com/DamCone)  
-**💼 LinkedIn:** [linkedin.com/in/damián-conejos-monzo-426250238](https://www.linkedin.com/in/damián-conejos-monzo-426250238/)
+**💼 LinkedIn:** [linkedin.com/in/damián-conejos-monzo-426250238](https://www.linkedin.com/in/damián-conejos-monzo-426250238/)  
 **🌐 Portfolio:** [damianconejostrabajoslm.kesug.com](http://damianconejostrabajoslm.kesug.com/)
 
 ---

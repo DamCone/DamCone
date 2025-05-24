@@ -54,7 +54,7 @@ Built a desktop application that simulates a burger shop menu, allowing users to
 
 **Vocational Training in Web Application Development (DAW)**  
 *IES Juan De Garay, Spain*  
-📅 Sep 2023 – Jun 2025 *(First year completed)*  
+📅 Sep 2024 – Jun 2026 *(First year completed)*  
 Relevant topics: Java development, database design with SQL, web development, Git, testing, and project management.
 
 ---
